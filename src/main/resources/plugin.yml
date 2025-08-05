@@ -1,0 +1,5 @@
+name: CraftingCreator
+version: 0.69
+main: com.lachlanm05.craftingcreator.CraftingCreator
+api-version: 1.20
+
