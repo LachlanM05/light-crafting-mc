@@ -13,13 +13,13 @@ public class CraftingCreator extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getLogger().info("type poop (CraftingCreator Enabled!)");
+        getLogger().info("crafting creator turned on right now (realbtw)");
         registerRecipies();
     }
 
     @Override
     public void onDisable() {
-        getLogger().info("CraftingCreator disabled.");
+        getLogger().info("crafting creator disabled.");
     }
 
     private void registerRecipies() {
